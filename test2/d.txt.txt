@@ -1,4 +1,0 @@
-testd.txt
-hahah
-queding
-234234
